@@ -1,0 +1,47 @@
+main{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+#box1{
+    width: 500px;
+  background-color: blue;
+}
+
+#box2{
+  border-radius: 20px solid;
+  margin-left: 25%;
+    width: 500px;
+  background-color: green;
+}
+
+#box3{
+  margin-left: 50%;
+  width: 500px;
+  background-color: orangered;
+}
+
+div p{
+    color: white;
+    text-align: center;
+     padding-left: 80px;
+}
+
+div h2{
+     padding-left: 150px;
+    color: white;
+    text-decoration: underline solid;
+}
+
+div img{
+    position: center;
+    padding-left: 70px;
+}
+
+div a{
+    padding-left: 180px;
+}
